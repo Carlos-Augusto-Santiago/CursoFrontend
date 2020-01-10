@@ -18,7 +18,7 @@ Te dejo mis redes sociales si quieres mandarme un mensaje:
 [2.1]: http://i.imgur.com/P3YfQoD.png (Víctor H. Morales Martínez)
 [1.1]: http://i.imgur.com/0o48UoR.png (Vicnow)
 
-[3]: http://https://twitter.com/_vicnow_
+[3]: http://twitter.com/_vicnow_
 [2]: https://www.facebook.com/Victor.H.Morales.Martinez
 [1]: https://github.com/Vicnow
 
