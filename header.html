@@ -64,6 +64,27 @@
         color: white;
         font-size: 18px;
     }
+    .main{
+        height: 300px;
+    }
+    .main__title{
+        color: white;
+        font-size: 25px;
+    }
+    .main .input{
+        background-color: #107dac;
+        border: 2px solid white;
+        border-radius: 25px;
+        color: white;
+        font-size: 16px;
+        height: 35px;
+        padding: 0 10px;
+        width: 75%;
+        
+    }
+    ::placeholder{
+        color: white;
+    }
 </style>
 <body>
     <header class="header">
@@ -81,5 +102,9 @@
             </div>
         </div>
     </header>
+    <section class="main">
+        <h2 class="main__title">¿Qu&eacute; quieres ver hoy?</h2>
+        <input class="input" type="text" placeholder="Buscar...">
+    </section>
 </body>
 </html>
