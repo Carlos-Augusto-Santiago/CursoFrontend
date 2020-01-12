@@ -1,10 +1,9 @@
-# Curso de Frontend con JavaScript 
+# Curso de Frontend con HTML y CSS
+Un curso donde repaso muchos conocimientos de **HTML** y **CSS**, no tan profundos pero muy utiles, ademas de aprender nuevos trucos. 
 
-Un curso donde repaso muchos conocimientos de **HTML** y **CSS**, no tan profundos pero muy utiles. 
+En este proyecto se crea una pagina de login y una maquetacion de sitio web de videos con un carrousel.
 
-Ademas de agregar **JavaScript** al Proyecto y empezar a conocer todos las cosas que este lenguaje puede hacer enfocado al **Frontend**.
-
-Sientete libre de de hacerle Fork o hacer un Pull Request si tienes algo cool que aportar. 
+Sientete libre de de hacerle Fork. 
 
 ------------
 
@@ -23,3 +22,6 @@ Te dejo mis redes sociales si quieres mandarme un mensaje:
 [1]: https://github.com/Vicnow
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+![Login](https://i.imgur.com/T1XB8Cq.png "Login")
+
+![Principal](https://i.imgur.com/PK3gvO7.png "Principal")
